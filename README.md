@@ -29,7 +29,7 @@ If the document has 5 pages, with page 1 in LayoutA,  pages 1-2 on LayoutB, and 
 `LayoutC_b.pdf`
 
 
-### How to add Script to InDesign Scripts Panel
+## How to add Script to InDesign Scripts Panel
 
 Save the `.jsx` file to your InDesign Scripts Panel folder:
 
